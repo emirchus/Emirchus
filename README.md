@@ -1,15 +1,17 @@
-### Hi there 👋
+### Holi uwu
 
-**MrEmii/MrEmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy programador desde 2015, me gustan los gatos, el anime y la compu
 
-Here are some ideas to get you started:
+##### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Java
+- ReactJS
+- ElectronJS
+- Server Express
+- Flutter
+- LWJGL
 
+##### Proyectos
+
+- [OhMyFuckingCat](https://cat.overknight.com.mx/) página dedicada a gatos 
+- Hice más cosas, pero te lo dejo para vos, así revisas mi git uwu
