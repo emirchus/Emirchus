@@ -8,6 +8,8 @@ Soy programador desde 2015, me gustan los gatos, el anime y la compu
 
 - Java
 - ReactJS
+- Next JS
+- Nest JS
 - ElectronJS
 - ExpressJS
 - Flutter
