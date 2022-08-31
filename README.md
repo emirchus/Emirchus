@@ -11,6 +11,8 @@
 
 - 🤝 Rediseño de Youtube [YoutubeRewamp](https://github.com/MrEmii/YoutubeRewamp)
 
+- 🤝 Monorepo Flutter [Repo](https://github.com/MrEmii/flutter_monorepo.git)
+
 <h3 align="left">Redes owo:</h3>
 <p align="left">
 <a href="https://dev.to/mremii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mremii" height="30" width="40" /></a>
