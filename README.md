@@ -11,7 +11,9 @@
 
 - 🤝 Rediseño de Youtube [YoutubeRewamp](https://github.com/MrEmii/YoutubeRewamp)
 
-- 🤝 Monorepo Flutter [Repo](https://github.com/MrEmii/flutter_monorepo.git)
+- 🤝 Monorepo Flutter [Repo](https://github.com/MrEmii/flutter_monorepo)
+
+- 🤝 Tesla Shop [Repo](https://github.com/MrEmii/tesla-shop) [Preview](https://tesla-shop-owo.vercel.app/)
 
 <h3 align="left">Redes owo:</h3>
 <p align="left">
