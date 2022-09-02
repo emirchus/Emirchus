@@ -17,6 +17,8 @@
 
 - 🤝 Tesla Shop [Repo](https://github.com/MrEmii/tesla-shop) [Preview](https://tesla-shop-owo.vercel.app/)
 
+- 🤝 NestJS DDD [Repo](https://github.com/MrEmii/nest-ddd) [Preview]()
+
 <h3 align="left">Redes owo:</h3>
 <p align="left">
 <a href="https://dev.to/mremii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mremii" height="30" width="40" /></a>
