@@ -18,6 +18,7 @@
 - 🤝 Tesla Shop [Repo](https://github.com/MrEmii/tesla-shop) [Preview](https://tesla-shop-owo.vercel.app/)
 
 - 🤝 NestJS DDD [Repo](https://github.com/MrEmii/nestjs-ddd) [Preview]()
+- 🤝 OTTA Project [ORG](https://github.com/OTTAA-Project)
 
 <h3 align="left">Redes owo:</h3>
 <p align="left">
