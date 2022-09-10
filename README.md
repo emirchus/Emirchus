@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/emirchus" target="blank"><img src="https://img.shields.io/twitter/follow/emirchus?logo=twitter&style=for-the-badge" alt="emirchus" /></a> </p>
 
-- 🤝 Trabajando en CheKpi [CheKpi](https://play.google.com/store/apps/details?id=dev.chek)
+- 🤝 Trabajando en [CheKpi](https://play.google.com/store/apps/details?id=dev.chek)
+
+- 🤝 Trabajando en [OTTAA Project](https://github.com/OTTAA-Project)
 
 - 🤝 Aplicación Webb [WannaAnime](https://github.com/MrEmii/WannaAnimeApp)
 
@@ -18,7 +20,6 @@
 - 🤝 Tesla Shop [Repo](https://github.com/MrEmii/tesla-shop) [Preview](https://tesla-shop-owo.vercel.app/)
 
 - 🤝 NestJS DDD [Repo](https://github.com/MrEmii/nestjs-ddd) [Preview]()
-- 🤝 OTTAA Project [ORG](https://github.com/OTTAA-Project)
 
 <h3 align="left">Redes owo:</h3>
 <p align="left">
