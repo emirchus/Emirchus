@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/emirchus" target="blank"><img src="https://img.shields.io/twitter/follow/emirchus?logo=twitter&style=for-the-badge" alt="emirchus" /></a> </p>
 
-- 🤝 Trabajando en [CheKpi](https://play.google.com/store/apps/details?id=dev.chek)
+- 🤝 FullStack Dev en [CheKpi](https://play.google.com/store/apps/details?id=dev.chek)
 
-- 🤝 Trabajando en [OTTAA Project](https://github.com/OTTAA-Project)
+- 🤝 Flutter Dev en [OTTAA Project](https://github.com/OTTAA-Project)
 
 - 🤝 Aplicación Webb [WannaAnime](https://github.com/MrEmii/WannaAnimeApp)
 
