@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer owo</h3>
 
 <p align="left"> <a href="https://twitter.com/emirchus" target="blank"><img src="https://img.shields.io/twitter/follow/emirchus?logo=twitter&style=for-the-badge" alt="emirchus" /></a> </p>
-
+- 📝 CV [VER](https://drive.google.com/file/d/1Yvn4WGJfpkRLBuD5MA__Hinh8AHilapn/view?usp=sharing)
 - 🤝 FullStack Dev en [CheKpi](https://play.google.com/store/apps/details?id=dev.chek)
 
 - 🤝 Flutter Dev en [OTTAA Project](https://github.com/OTTAA-Project)
