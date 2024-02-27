@@ -9,6 +9,8 @@
 
 - 🤝 Flutter Dev en [OTTAA Project](https://github.com/OTTAA-Project)
 
+- 🤝 Emirs Shop [Repo](https://github.com/emirchus/emirs-shop) [Preview](https://emirs-shop.vercel.app/)
+ 
 - 🤝 Aplicación Webb [WannaAnime](https://github.com/MrEmii/WannaAnimeApp)
 
 - 🤝 Reproductor de Netflix [Netflix Video Player](https://github.com/MrEmii/Netflix-VideoPlayer)
